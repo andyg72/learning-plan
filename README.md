@@ -31,3 +31,4 @@ Tidy Up
 -------
 * README's from previous projects
 * refactor Chitter to make better use of partials
+* install Inkscape
